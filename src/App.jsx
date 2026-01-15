@@ -38,7 +38,7 @@ export const App = () => {
           {formatTime(time)}
         </h1>
 
-        <p className="mt-6 text-center text-xs uppercase tracking-widest text-zinc-400">Codiarc Digital Clock</p>
+        <p className="mt-6 text-center text-xs uppercase tracking-widest text-zinc-400">Relógio Digital</p>
 
       </div>
     </div>
